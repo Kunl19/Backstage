@@ -5,10 +5,10 @@ metadata:
   description: A collection of all Backstage example APIs
 spec:
   targets:
-    - ./apis/hello-world-api.yaml
-    - ./apis/petstore-api.yaml
-    - ./apis/spotify-api.yaml
-    - ./apis/streetlights-api.yaml
-    - ./apis/swapi-graphql.yaml
+    - ./apis/offers-api.yaml
+    - ./apis/dashboard-api.yaml
+    - ./apis/leads-api.yaml
+    - ./apis/drive-time-api.yaml
+    - ./apis/trade-in-api.yaml
     - ./apis/wayback-archive-api.yaml
     - ./apis/wayback-search-api.yaml
