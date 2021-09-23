@@ -10,7 +10,7 @@ metadata:
     - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.KeyManagement/RAPP.Mercedes.KeyManagement  
       title: Bitbucket Repo
       icon: github
-    - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/vehicle-data-api.yaml
+    - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/kms-api.yaml
       title: API Spec
       icon: code
 spec:
