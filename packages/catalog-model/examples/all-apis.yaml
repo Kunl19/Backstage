@@ -7,5 +7,6 @@ spec:
   targets:
     - ./apis/vehicle-data-api.yaml
     - ./apis/leads-api.yaml
+    - ./apis/kms-api.yaml
     
     
