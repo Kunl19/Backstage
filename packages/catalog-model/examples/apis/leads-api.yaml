@@ -10,7 +10,7 @@ metadata:
     - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.Ems.KeepWarm.Client  
       title: Bitbucket Repo
       icon: github
-    - url: 
+    - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/leads-api.yaml
       title: API Spec
       icon: code
 spec:
