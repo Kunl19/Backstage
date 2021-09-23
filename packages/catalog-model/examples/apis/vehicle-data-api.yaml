@@ -2,7 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: vehicle-data
-  description: Internally used. Updates VDE and imports vehicles. This API is called from Lambda funcitons.  
+  description: The vehicle search systems provide Read operations (including filter) to external clients. 
+    The Search Engine API includes business logic to transform the results. 
+    The Vehicle Data API provides pure filter function to the vehicle data. 
+    The vehicle data is stored in a relational database (Amazon Aurora) but also some information, such as the Equipment data, is stored in Elasticache.   
   tags:
     - vehicledata
     - datamanagement
@@ -19,9 +22,11 @@ spec:
   owner: rapp-mercedes
   system: OSP
   definition: |
-    Description:
+    Projects:
     
-    //The vehicle search systems provide Read operations (including filter) to external clients. 
-    //The Search Engine API includes business logic to transform the results. 
-    //The Vehicle Data API provides pure filter function to the vehicle data. 
-    //The vehicle data is stored in a relational database (Amazon Aurora) but also some information, such as the Equipment data, is stored in Elasticache. 
+    //Data Management API
+    //Internally used. Updates VDE and imports vehicles. This API is called from Lambda funcitons. 
+    
+    //Image
+    
+    
