@@ -27,6 +27,8 @@ spec:
     //Data Management API
     //Internally used. Updates VDE and imports vehicles. This API is called from Lambda funcitons. 
     
-    //Image
+    Folder Structure:
+    
+    https://oneomnicom.sharepoint.com/:w:/r/sites/OSPRetainedTeam/_layouts/15/Doc.aspx?sourcedoc=%7B96D4BBB0-F234-402B-963F-D6BD27E4201D%7D&file=All%20OSP%20projects.docx&action=default&mobileredirect=true
     
     
