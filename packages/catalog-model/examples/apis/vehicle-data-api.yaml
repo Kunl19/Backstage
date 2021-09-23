@@ -4,8 +4,8 @@ metadata:
   name: RAPP.Mercedes.DataManagement.API 
   description: Internally used. Updates VDE and imports vehicles. This API is called from Lambda funcitons.  
   tags:
-    - Vehicle Data
-    - Data Management
+    - vehicledata
+    - datamanagement
   links:
     - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.DataManagement.API 
       title: Bitbucket Repo
@@ -15,10 +15,10 @@ metadata:
       icon: code
 spec:
   system: OSP
-  sub-system: Data Management
+  sub-system: Data-Management
   owner: Rapp-Mercedes
   definition: |
-    Description
+    Description:
     
     The vehicle search systems provide Read operations (including filter) to external clients. 
     The Search Engine API includes business logic to transform the results. 
