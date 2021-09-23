@@ -1,16 +1,16 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: petstore
-  description: The petstore API
+  name: Dashboard
+  description: This an example Dashboard API
   tags:
-    - store
+    - dashboard
     - rest
   links:
-    - url: https://github.com/swagger-api/swagger-petstore
+    - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/dashboard-api.yaml
       title: GitHub Repo
       icon: github
-    - url: https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v3.0/petstore.yaml
+    - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/dashboard-api.yaml
       title: API Spec
       icon: code
 spec:
