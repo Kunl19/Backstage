@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: RAPP.Mercedes.DataManagement.API 
+  name: vehicle-data
   description: Internally used. Updates VDE and imports vehicles. This API is called from Lambda funcitons.  
   tags:
     - vehicledata
