@@ -28,7 +28,6 @@ spec:
     //Internally used. Updates VDE and imports vehicles. This API is called from Lambda funcitons. 
     
     Folder Structure:
-    
-    https://oneomnicom.sharepoint.com/:w:/r/sites/OSPRetainedTeam/_layouts/15/Doc.aspx?sourcedoc=%7B96D4BBB0-F234-402B-963F-D6BD27E4201D%7D&file=All%20OSP%20projects.docx&action=default&mobileredirect=true
-    
+    [Link to the OSP project file](https://oneomnicom.sharepoint.com/:w:/r/sites/OSPRetainedTeam/_layouts/15/Doc.aspx?sourcedoc=%7B96D4BBB0-F234-402B-963F-D6BD27E4201D%7D&file=All%20OSP%20projects.docx&action=default&mobileredirect=true)
+    [Link to Vehicle Data Extract image](https://oneomnicom.sharepoint.com/sites/OSPRetainedTeam/Shared%20Documents/Forms/AllItems.aspx?originalPath=aHR0cHM6Ly9vbmVvbW5pY29tLnNoYXJlcG9pbnQuY29tLzpmOi9zL09TUFJldGFpbmVkVGVhbS9Fc0NoUmw2bzVNNUdwQUtQZW5Kdnc4UUJSOU5yOFhCWEJLZHBINXBzSnZqNWVnP3J0aW1lPUxidzRqb0YtMlVn&id=%2Fsites%2FOSPRetainedTeam%2FShared%20Documents%2FSystem%20Documentation%2FSystem%20Architecture%2FSubsystems%2FVehicle%20Data%20Extract%2Epng&parent=%2Fsites%2FOSPRetainedTeam%2FShared%20Documents%2FSystem%20Documentation%2FSystem%20Architecture%2FSubsystems)
     
