@@ -1,0 +1,26 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: RAPP.Mercedes.DataManagement.API 
+  description: Internally used. Updates VDE and imports vehicles. This API is called from Lambda funcitons.  
+  tags:
+    - Vehicle Data
+    - Data Management
+  links:
+    - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.DataManagement.API 
+      title: Bitbucket Repo
+      icon: github
+    - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/dashboard-api.yaml
+      title: API Spec
+      icon: code
+spec:
+  system: OSP
+  sub-system: Data Management
+  owner: Rapp-Mercedes
+  definition: |
+    Description
+    
+    The vehicle search systems provide Read operations (including filter) to external clients. 
+    The Search Engine API includes business logic to transform the results. 
+    The Vehicle Data API provides pure filter function to the vehicle data. 
+    The vehicle data is stored in a relational database (Amazon Aurora) but also some information, such as the Equipment data, is stored in Elasticache. 
