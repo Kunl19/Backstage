@@ -14,9 +14,10 @@ metadata:
       title: API Spec
       icon: code
 spec:
-  type: Sub-System
-  lifecycle: avaliable
-  owner: Rapp-Mercedes
+  type: sub-system
+  lifecycle: production
+  owner: rapp-mercedes
+  system: OSP
   definition: |
     Description:
     
