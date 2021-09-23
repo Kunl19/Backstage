@@ -14,8 +14,8 @@ metadata:
       title: API Spec
       icon: code
 spec:
-  system: OSP
-  sub-system: Data-Management
+  type: Sub-System
+  lifecycle: avaliable
   owner: Rapp-Mercedes
   definition: |
     Description:
