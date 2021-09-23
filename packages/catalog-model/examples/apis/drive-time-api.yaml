@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: streetlights
-  description: The Smartylighting Streetlights API allows you to remotely manage the city lights.
+  name: drive-time
+  description: The example Drive Time API
   tags:
     - mqtt
   links:
-    - url: https://github.com/asyncapi/asyncapi/blob/master/examples/1.2.0/streetlights.yml
+    - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/drive-time-api.yaml
       title: Source Code
       icon: code
 spec:
