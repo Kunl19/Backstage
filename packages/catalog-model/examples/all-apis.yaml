@@ -7,6 +7,6 @@ spec:
   targets:
     - ./apis/reservation-api.yaml
     - ./apis/leads-api.yaml
-    - ./apis/kms-api.yaml
+    - ./apis/offers-api.yaml
     
     
