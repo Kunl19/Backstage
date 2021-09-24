@@ -6,5 +6,5 @@ metadata:
   tags:
     - portal
 spec:
-  owner: team-a
-  domain: artists
+  owner: Code
+  domain: systems
