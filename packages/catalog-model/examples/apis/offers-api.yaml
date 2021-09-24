@@ -10,7 +10,7 @@ metadata:
     - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.Offers 
       title: Bitbucket Repo
       icon: github
-    - url: Change.com
+    - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/offers-api.yaml
       title: API Spec
       icon: code
 spec:
