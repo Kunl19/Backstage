@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: artist-engagement-portal
-  description: Everything related to artists
+  name: reservations systems
+  description: Everything related to reservations
   tags:
     - portal
 spec:
