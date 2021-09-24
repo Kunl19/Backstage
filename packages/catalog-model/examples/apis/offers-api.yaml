@@ -1,0 +1,32 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: offers
+  description: Main Offers API   
+  tags:
+    - offers
+    - api
+  links:
+    - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.Offers 
+      title: Bitbucket Repo
+      icon: github
+    - url: Change.com
+      title: API Spec
+      icon: code
+spec:
+  type: grpc
+  lifecycle: production
+  owner: rapp-mercedes
+  system: OSP
+  definition: |
+    Projects:
+    
+    //Offers API
+    //Something about the offers API
+    
+    Folder Structure:
+    
+    //This is where we will add the image
+    description: <a href="https://google.com">Testing Landing Page</a>
+    
+    
