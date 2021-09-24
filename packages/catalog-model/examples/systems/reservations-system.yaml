@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: reservations systems
+  name: reservations
   description: Everything related to reservations
   tags:
     - portal
