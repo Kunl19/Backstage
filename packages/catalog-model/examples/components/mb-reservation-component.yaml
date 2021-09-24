@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: artist-lookup
-  description: Artist Lookup
+  name: mb-reservation
+  description: Component in the Reservation system
   tags:
-    - java
-    - data
+    - component
+    - reservations
   links:
     - url: https://example.com/user
       title: Examples Users
@@ -30,7 +30,8 @@ metadata:
       icon: alert
 spec:
   type: service
-  lifecycle: experimental
-  owner: team-a
-  system: artist-engagement-portal
-  dependsOn: ['resource:artists-db']
+  lifecycle: none
+  owner: code
+  system: reservations
+  consumesAPIs:
+    - reservations-api
