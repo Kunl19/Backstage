@@ -10,7 +10,7 @@ metadata:
     - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.Reservation.API   
       title: Bitbucket Repo
       icon: github
-    - url: needstochange.com
+    - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/reservation-api.yaml
       title: API Spec
       icon: code
 spec:
