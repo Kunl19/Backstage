@@ -1,1 +1,12 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: finance
+  description: The finance module provides a facade to a 3rd party called CodeWeavers. 
+  This module provides finance operations such as finance quotations, defaults and terms/conditions. 
+  This is not the same as Online Credit Decisions - that is a separate module which is scheduled for future development.  
+  tags:
+    - portal
+spec:
+  owner: rappmercedes
+  domain: systems
