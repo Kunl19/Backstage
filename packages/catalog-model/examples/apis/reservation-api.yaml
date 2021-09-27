@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: reservations-api
+  name: reservations
   description: Redundant old UI API 
   tags:
     - reservations
