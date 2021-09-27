@@ -1,1 +1,9 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: vehicle-search
+  description: The vehicle search systems provide Read operations (including filter) to external clients. 
+  The Search Engine API includes business logic to transform the results. 
+spec:
+  owner: rappmercedes
+  domain: systems
