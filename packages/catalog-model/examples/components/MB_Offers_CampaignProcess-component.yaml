@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: MB_Offers_CampaignProcess
+  description: MB_Offers_CampaignProcess
+spec:
+  type: service
+  lifecycle: production
+  owner: rapp-mercedes
+  consumesApis:
+    - offers
