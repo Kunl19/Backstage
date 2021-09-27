@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: UsedCarMissingRVOptionsImport
+  # This is an extra long description
+  description: Process to find missing finance data.   
+  links:
+    - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.UsedCarMissingRVOptionsImport 
+      title: Bitbucket Repo
+      icon: github
+spec:
+  type: service
+  lifecycle: available 
+  owner: rappmercedes
+  system: finance
