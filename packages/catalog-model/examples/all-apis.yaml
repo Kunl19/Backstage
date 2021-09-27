@@ -5,7 +5,7 @@ metadata:
   description: A collection of all Backstage example APIs
 spec:
   targets:
-    - ./apis/reservation-api.yaml
+    - ./apis/reservations-api.yaml
     - ./apis/leads-api.yaml
     - ./apis/offers-api.yaml
     - ./apis/data-management-api.yaml
