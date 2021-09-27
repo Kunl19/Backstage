@@ -7,6 +7,7 @@ spec:
   targets:
     - ./apis/reservations-api.yaml
     - ./apis/offers-api.yaml
+    - ./apis/durable-api.yaml
     - ./apis/data-management-api.yaml
     - ./apis/reporting-api.yaml
     - ./apis/postcode-api.yaml
