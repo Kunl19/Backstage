@@ -1,1 +1,10 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: leads
+  description: Everything related to leads
+  tags:
+    - portal
+spec:
+  owner: rappmercedes
+  domain: systems
