@@ -13,4 +13,6 @@ spec:
   lifecycle: available 
   owner: rappmercedes
   system: leads
+  consumesApis:
+    - durable-api
   
