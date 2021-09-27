@@ -2,12 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: data-management-api
-  description: Accepts lead information from a customer in order to store in the Central Customer Database (data warehouse used for marcomms)  
+  description: Internally used. Updates VDE and imports vehicles. This API is called from Lambda funcitons.   
   tags:
     - datamanagement
     - api
   links:
-    - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.Ems.KeepWarm.Client  
+    - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.DataManagement.API   
       title: Bitbucket Repo
       icon: github
     - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/leads-api.yaml
@@ -20,10 +20,10 @@ spec:
   system: OSP
   definition: |
     Projects:
-    RAPP.Mercedes.Ems.KeepWarm.Client 
     
-    //Keep Warm API
-    //Used in different project. Generate leads in EMS. Shared library 
+    
+    //Data Management API
+    //Internally used. Updates VDE and imports vehicles. This API is called from Lambda funcitons.  
     
     Folder Structure:
     
