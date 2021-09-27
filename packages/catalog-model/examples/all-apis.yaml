@@ -9,5 +9,8 @@ spec:
     - ./apis/leads-api.yaml
     - ./apis/offers-api.yaml
     - ./apis/data-management-api.yaml
+    - ./apis/reporting-api.yaml
+    - ./apis/postcode-api.yaml
+    - ./apis/vehicle-management-api.yaml
     
     
