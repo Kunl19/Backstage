@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: offers-api
+  name: offers
   description: Main Offers API   
   tags:
     - offers
