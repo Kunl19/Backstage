@@ -6,4 +6,4 @@ metadata:
 spec:
   targets:
     - ./domains/systems-domain.yaml
-    - ./domains/playback-domain.yaml
+   
