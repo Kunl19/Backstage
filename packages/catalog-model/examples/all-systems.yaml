@@ -11,3 +11,5 @@ spec:
     - ./systems/leads-systems.yaml 
     - ./systems/vehicle-data-systems.yaml
     - ./systems/finance-systems.yaml
+    - ./systems/vehicle-search-systems.yaml
+
