@@ -1,0 +1,29 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: ReservationOrchestrationApi
+  description: API for Publicies to manage reservations. API can handle payments.  
+  tags:
+    - reservations
+    - api
+  links:
+    - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/ReservationOrchestrationApi 
+      title: Bitbucket Repo
+      icon: github
+    - url: https://github.com/Kunl19/backstage/blob/master/packages/catalog-model/examples/apis/reservationorchestrationapi-api.yaml
+      title: API Spec
+      icon: code
+spec:
+  type: sub-system
+  lifecycle: available
+  owner: rapp-mercedes
+  system: OSP
+  definition: |
+    Projects:
+    
+    //ReservationOrchestrationApi 
+    
+    Folder Structure:
+    
+    //This is where we will add the image
+    description: <a href="https://google.com">Testing Landing Page</a>
