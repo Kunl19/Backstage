@@ -7,3 +7,4 @@ spec:
   targets:
     - ./components/MB_Offers_CampaignProcess-component.yaml
     - ./components/MB_Reservation-component.yaml
+    - ./components/KeepWarm.Client-component.yaml
