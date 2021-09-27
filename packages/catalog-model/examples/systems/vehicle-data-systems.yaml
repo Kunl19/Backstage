@@ -2,8 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: vehicle-data
-  description: The vehicle search systems provide Read operations (including filter) to external clients. 
-  The Search Engine API includes business logic to transform the results. The Vehicle Data API provides pure filter function to the vehicle data. 
+  description: The Vehicle Data API provides pure filter function to the vehicle data. 
   The vehicle data is stored in a relational database (Amazon Aurora) but also some information, such as the Equipment data, is stored in Elasticache. 
 spec:
   owner: rappmercedes
