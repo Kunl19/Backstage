@@ -1,1 +1,29 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: durable-api
+  description: Main Durable API   
+  tags:
+    - durable
+    - api
+  links:
+    - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.Durable 
+      title: Bitbucket Repo
+      icon: github
+    - url: https://github.com/Kunl19/backstage/edit/master/packages/catalog-model/examples/apis/durable-api.yaml
+      title: API Spec
+      icon: code
+spec:
+  type: grpc
+  lifecycle: production
+  owner: rapp-mercedes
+  system: OSP
+  definition: |
+    Projects:
+    
+    //Durable API
+    //Durable API Documentation
+    
+   
+    
+    
