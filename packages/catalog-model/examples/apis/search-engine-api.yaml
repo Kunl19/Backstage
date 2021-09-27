@@ -1,1 +1,28 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: vehicle-management-api
+  description: The Search Engine API includes business logic to transform the results. Calls vehicle search API  
+  tags:
+    - searchengine
+    - api
+  links:
+    - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.SearchEngine 
+      title: Bitbucket Repo
+      icon: github
+    - url: https://github.com/Kunl19/backstage/edit/master/packages/catalog-model/examples/apis/search-engine-api.yaml
+      title: API Spec
+      icon: code
+spec:
+  type: sub-system
+  lifecycle: production
+  owner: rapp-mercedes
+  system: OSP
+  definition: |
+    Projects:
+    
+    //Search Engine API
+    Folder Structure:
+    
+    //This is where we will add the image
+    description: <a href="https://google.com">Testing Landing Page</a>
