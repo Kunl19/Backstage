@@ -9,4 +9,4 @@ spec:
   owner: rapp-mercedes
   system: offers
   consumesApis:
-    - offers
+    - offers-api
