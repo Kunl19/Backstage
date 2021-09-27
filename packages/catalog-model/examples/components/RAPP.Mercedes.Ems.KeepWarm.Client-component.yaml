@@ -11,7 +11,7 @@ metadata:
 spec:
   type: service
   lifecycle: available 
-  owner: rappmercedes
+  owner: team-a
   system: leads
   consumesApis:
     - durable-api
