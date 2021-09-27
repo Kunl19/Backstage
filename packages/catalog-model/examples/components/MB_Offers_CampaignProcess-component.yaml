@@ -7,5 +7,6 @@ spec:
   type: service
   lifecycle: production
   owner: rapp-mercedes
+  system: offers
   consumesApis:
     - offers
