@@ -12,3 +12,5 @@ metadata:
 spec:
   owner: team-a
   domain: systems
+  consumesApis:
+    - durable-api
