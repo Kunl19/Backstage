@@ -1,13 +1,17 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: playback-order
-  description: Playback Order
-  tags:
-    - java
-    - playback
+  name: Reservation System
+  # This is an extra long description
+  description: The Reservation system allows a customer to reserve a vehicle.   
+  links:
+    - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.Reservation 
+      title: Bitbucket Repo
+      icon: github
 spec:
   type: service
-  lifecycle: production
-  owner: user:guest
-  system: audio-playback
+  lifecycle: available 
+  owner: rappmercedes
+  system: 
+  consumesApis:
+    - reservations-api
