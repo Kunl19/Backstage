@@ -5,8 +5,9 @@ metadata:
   description: A collection of all Backstage example systems
 spec:
   targets:
-    - ./systems/reservations-system.yaml
-    - ./systems/offers-system.yaml
-    - ./systems/data-management-system.yaml
+    - ./systems/reservations-systems.yaml
+    - ./systems/offers-systems.yaml
+    - ./systems/data-management-systems.yaml
     - ./systems/leads-systems.yaml 
-    - ./systems/vehicle-data-system.yaml
+    - ./systems/vehicle-data-systems.yaml
+    - ./systems/finance-systems.yaml
