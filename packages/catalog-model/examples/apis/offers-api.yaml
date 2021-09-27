@@ -16,7 +16,7 @@ metadata:
 spec:
   type: grpc
   lifecycle: production
-  owner: rapp-mercedes
+  owner: user:guest
   system: OSP
   definition: |
     Projects:
