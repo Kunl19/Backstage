@@ -1,1 +1,28 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: vehicle-management-api
+  description: UI API to manage vehicles via one admin platform using data management API.   
+  tags:
+    - vehiclemanagement
+    - api
+  links:
+    - url: https://bitbucket.codeworldwide.com/projects/CGMB/repos/mb-osp/browse/RAPP.Mercedes.VehicleManagement.API   
+      title: Bitbucket Repo
+      icon: github
+    - url: https://github.com/Kunl19/backstage/edit/master/packages/catalog-model/examples/apis/vehicle-management-api.yaml
+      title: API Spec
+      icon: code
+spec:
+  type: sub-system
+  lifecycle: production
+  owner: rapp-mercedes
+  system: OSP
+  definition: |
+    Projects:
+    
+    //Vehicle Management API
+    Folder Structure:
+    
+    //This is where we will add the image
+    description: <a href="https://google.com">Testing Landing Page</a>
