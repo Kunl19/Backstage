@@ -9,3 +9,5 @@ spec:
     - ./components/MB_Reservation-component.yaml
     - ./components/RAPP.Mercedes.Reservation-component.yaml
     - ./components/RAPP.Mercedes.Ems.KeepWarm.Client-component.yaml
+    - ./components/RAPP.Mercedes.UsedCarMissingRVOptionsImport-component.yaml
+    - ./components/RAPP.Mercedes.VehicleDataExtract-component.yaml
