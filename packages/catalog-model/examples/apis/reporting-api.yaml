@@ -16,7 +16,7 @@ metadata:
 spec:
   type: sub-system
   lifecycle: production
-  owner: rapp-mercedes
+  owner: team-a
   system: OSP
   definition: |
     Projects:
