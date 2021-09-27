@@ -12,6 +12,5 @@ spec:
   type: service
   lifecycle: available 
   owner: rappmercedes
-  system: 
-  consumesApis:
-    - leads-api
+  system: leads
+  
