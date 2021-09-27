@@ -2,7 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: offers
-  description: offers system
+  description: The Offers system provides the mechanism where offer rules metadata are stored and then applied to the relevant vehicle set. 
+  It also provides, on request, any offer which is currently active on a particular vehicle. 
+  The system consists of an Offers microservice and an orchestration API used by the Online Showroom website in the usual fashion. 
 spec:
   owner: rappmercedes
   domain: systems
