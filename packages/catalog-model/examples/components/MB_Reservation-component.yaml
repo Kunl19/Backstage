@@ -34,4 +34,4 @@ spec:
   owner: code
   system: reservations
   consumesAPIs:
-    - reservations-api
+    - reservations
