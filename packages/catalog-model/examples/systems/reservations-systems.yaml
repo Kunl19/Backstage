@@ -2,12 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: reservations
-  description: The Reservation system allows a customer to reserve a vehicle. 
-  It handles the processing callbacks from PayPal and SagePay payment providers, and instructs the web application to re-direct to the appropriate SagePay or PayPal web forms. 
-  No payment information such as credit card details are sent to CODE systems. 
-  The system stores Reservation details such as customer details and vehicle data in the Reservation Database. 
+  description: The Reservation system allows a customer to reserve a vehicle. It handles the processing callbacks from PayPal and SagePay payment providers, and instructs the web application to re-direct to the appropriate SagePay or PayPal web forms. No payment information such as credit card details are sent to CODE systems. The system stores Reservation details such as customer details and vehicle data in the Reservation Database. 
   tags:
     - portal
 spec:
   owner: rapp-mercedes
   domain: systems
+  
