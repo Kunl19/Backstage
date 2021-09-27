@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: MB_EMS_LeadProcessor_1
+  description: MB_EMS_LeadProcessor_1 - Lambda component
+spec:
+  type: service
+  lifecycle: available
+  owner: team-a
+  providesApis:
+    - durable-api
