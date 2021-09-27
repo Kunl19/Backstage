@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: leads
-  description: Everything related to leads
+  description: Accepts lead information from a customer in order to store in the Central Customer Database (data warehouse used for marcomms) 
   tags:
     - portal
 spec:
