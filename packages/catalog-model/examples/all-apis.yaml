@@ -8,5 +8,6 @@ spec:
     - ./apis/reservation-api.yaml
     - ./apis/leads-api.yaml
     - ./apis/offers-api.yaml
+    - ./apis/data-management-api.yaml
     
     
