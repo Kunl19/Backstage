@@ -7,5 +7,6 @@ spec:
   type: service
   lifecycle: available
   owner: team-a
+  system: leads
   providesApis:
     - durable-api
