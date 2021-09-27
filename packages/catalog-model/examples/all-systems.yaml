@@ -8,3 +8,4 @@ spec:
     - ./systems/reservations-system.yaml
     - ./systems/offers-system.yaml
     - ./systems/data-management-system.yaml
+    - ./systems/leads-systems.yaml
