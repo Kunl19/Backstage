@@ -11,3 +11,8 @@ spec:
     - ./components/RAPP.Mercedes.Ems.KeepWarm.Client-component.yaml
     - ./components/RAPP.Mercedes.UsedCarMissingRVOptionsImport-component.yaml
     - ./components/RAPP.Mercedes.VehicleDataExtract-component.yaml
+    - ./components/MB_EMS_LeadProcessor_1-component.yaml
+
+
+    
+    
