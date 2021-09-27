@@ -6,7 +6,6 @@ metadata:
 spec:
   targets:
     - ./apis/reservations-api.yaml
-    - ./apis/leads-api.yaml
     - ./apis/offers-api.yaml
     - ./apis/data-management-api.yaml
     - ./apis/reporting-api.yaml
