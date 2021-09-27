@@ -12,6 +12,8 @@ spec:
     - ./apis/postcode-api.yaml
     - ./apis/vehicle-management-api.yaml
     - ./apis/vehicle-search-api.yaml
+    - ./apis/search-engine-api.yaml
+
 
     
     
