@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: podcast
-  description: Podcast playback
+  name: offers
+  description: offers system
 spec:
-  owner: team-b
+  owner: code
   domain: playback
