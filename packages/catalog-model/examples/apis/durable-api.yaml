@@ -17,7 +17,7 @@ spec:
   type: grpc
   lifecycle: production
   owner: team-a
-  system: OSP
+  system: leads
   definition: |
     Projects:
     
