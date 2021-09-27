@@ -7,4 +7,5 @@ spec:
   targets:
     - ./components/MB_Offers_CampaignProcess-component.yaml
     - ./components/MB_Reservation-component.yaml
-    - ./components/KeepWarm.Client-component.yaml
+    - ./components/RAPP.Mercedes.Reservation-component.yaml
+    - ./components/RAPP.Mercedes.Ems.KeepWarm.Client-component.yaml
