@@ -1,4 +1,3 @@
-# Example Entities
+# Mercedes Backstage
 
-This is a set of example entities that you can make use of to demonstrate basic
-Backstage features.
+This is a set of example entities for a POC application
